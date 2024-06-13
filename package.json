@@ -1,0 +1,10 @@
+{
+  "name": "reveal-md-slides-experiment",
+  "packageManager": "yarn@4.3.0",
+  "dependencies": {
+    "reveal-md": "^6.1.2"
+  },
+  "scripts": {
+    "watch": "reveal-md slides.md --theme solarized -w"
+  }
+}
